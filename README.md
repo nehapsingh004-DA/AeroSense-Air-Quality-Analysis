@@ -14,3 +14,6 @@ AeroSense is an analytical and predictive ecosystem designed to bridge the gap b
 * *Database:* SQL / CSV
 * *Visualization:* Microsoft Power BI
 * *Platform:* Google Colab
+
+## Note: 
+To run this notebook, please upload the provided CSV files to your local environment and update the 'path' variable."
